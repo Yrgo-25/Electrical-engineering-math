@@ -20,7 +20,7 @@ En växelspänning visas i figuren nedan.
 Bestäm spänningens ekvation på formen $u(t)=|U|sin⁡(wt+δ)$.
 
 ### 1.4 – Ekvation samt graf för en växelspänning
-En växelspänning har amplituden $4 V$, frekvensen $50 Hz$ och fasen $-30°$.
+En växelspänning har amplituden $4$ $V$, frekvensen $50$ $Hz$ och fasen $-30°$.
 
 Bestäm växelspänningens ekvation $u(t)$ (fasen i $rad$) och rita sinuskurvan över en period $T$.
 
@@ -31,7 +31,7 @@ Ekvationen för en given växelspänning är:
 u(t)=6sin⁡(80πt+δ)
 ```
 
-Vid tiden $t=15 ms$ gäller att $u(t)=3 V$. Beräkna fasen $δ$.
+Vid tiden $t=15$ $ms$ gäller att $u(t) = 3$ $V$. Beräkna fasen $δ$.
 
 ## Del 2 - Nytt stoff
 

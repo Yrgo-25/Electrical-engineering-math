@@ -15,7 +15,7 @@ där
 
 **a)** Beräkna kondensatorspänningen $u_c(t)$ vid $t=0$.\
 **b)** Bestäm spänningens värdemängd.\
-**c)** Bestäm den tidpunkt $t$ då spänningen $u_c(t)$ över kondensatorn är $4 V$.
+**c)** Bestäm den tidpunkt $t$ då spänningen $u_c(t)$ över kondensatorn är $4$ V$.
 
 ### 1.2 – Rörelse i en servomotor
 En servomotors vinkelposition (i grader) ges av
@@ -51,10 +51,9 @@ där
 Omvandla följande vinklar till radianer:\
 **a)** $-30°$\
 **b)** $20°$\
-**c)** $225°$\  
+**c)** $225°$\
 **d)** $-45°$\
 **e)** $300°$ 
-
 
 ### 2.2 - Vinklar till grader
 Omvandla följande vinklar till grader:\
@@ -62,7 +61,7 @@ Omvandla följande vinklar till grader:\
 **b)** $3π/4$\
 **c)** $-5π/6$\
 **d)** $-1$\
-**e)** $2,2$\
+**e)** $2,2$
 
 ### 2.3. Bestämning av en växelspännings egenskaper
 
@@ -70,7 +69,7 @@ En växelspänning visas i figuren nedan.
 
 ![Sine wave](./images/2.3_sine_wave.png)
 
-**OBS!** Toppvärdet nås efter ca $8,33 ms$.
+**OBS!** Toppvärdet nås efter ca $8,33$ ms$.
 
 Bestäm:
 * Spänningens amplitud $|U|$ i $V$.  
@@ -81,7 +80,7 @@ Bestäm:
 
 ### 2.4 - Växelspänning med given fasförskjutning
 
-En växelspänning har amplituden $3 V$, frekvensen $25 Hz$ och fasen $45°$.  
+En växelspänning har amplituden $3$ $V$, frekvensen $25$ $Hz$ och fasen $45°$.  
 Bestäm växelspänningens ekvation $u(t)$ med fasen i $rad$ och rita sinuskurvan över en period $T$.
 
 ### 2.5 - Beräkning av en växelströms fas
@@ -92,4 +91,4 @@ Ekvationen för en växelspänning är:
 u(t) = 5sin(60πt + δ) V.
 ```
 
-Vid tiden $t = 20 ms$ gäller att $u(t) = 2,5 V$. Beräkna fasen $δ$.
+Vid tiden $t = 20$ $ms$ gäller att $u(t)$ = $2,5$ $V$. Beräkna fasen $δ$.

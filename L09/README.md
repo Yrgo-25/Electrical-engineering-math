@@ -13,13 +13,13 @@ där
 * $x$ är inspänningen i $V$ (Volt),
 * $f(x)$ är rumstemperaturen i $°C$ (grader Celsius).
 
-Anta att temperatursensorn är ansluten till mikroprocessorn `ATmega328P` med en matningsspänning på $5 V$.
+Anta att temperatursensorn är ansluten till mikroprocessorn `ATmega328P` med en matningsspänning på $5$ V$.
 
 **a)** Bestäm funktionens definitionsmängd i $V$.\
 **b)** Beräkna funktionens värdemängd i $°C$.\
 **c)** Rita grafen till funktionen.\
 **d)** Beräkna inspänningen när rumstemperaturen är $30 °C$.\
-**e)** Mikroprocessorns `ADC` (AD-omvandlare) har en upplösning på $10$ bitar, vilket innebär att inspänningen $0-5 V$ omvandlas till ett värde mellan $0-2^10-1$ = $0-1023$.\
+**e)** Mikroprocessorns `ADC` (AD-omvandlare) har en upplösning på $10$ bitar, vilket innebär att inspänningen $0-5$ $V$ omvandlas till ett värde i intervallet ($0, 2^{10}-1)$ = $(0, 1023)$.\
 Vilken temperatur motsvarar en ADC-avläsning på $205$?
 
 ### 1.2 – Datamängdens tillväxt i ett maskininlärningsprojekt
@@ -35,7 +35,7 @@ där
 * $a$ = den årliga tillväxtfaktorn,
 * $x$ = antal år som passerat.
 
-Anta att startstorleken är $6 000 000$ datapunkter och att den årliga tillväxten är $3 %$.
+Anta att startstorleken är $6 000 000$ datapunkter och att den årliga tillväxten är $3$ %.
 
 **a)** Ange en funktion som beskriver datamängdens storlek $f(x)$ efter $x$ år.\
 **b)** Beräkna datamängdens storlek efter fem år.\
