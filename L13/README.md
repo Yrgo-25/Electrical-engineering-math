@@ -28,5 +28,5 @@
 * Några synpunkter på lektionen?
 
 ## Nästa lektion
-* Genomförande av **dugga 2**.
-* Derivatan för trigonometriska funktioner, exponentialfunktioner samt logaritmfunktioner.
+* Deriveringsregler för multiplikation och division av funktioner.
+* Derivering av sammansatta funktioner (kedjeregeln).
