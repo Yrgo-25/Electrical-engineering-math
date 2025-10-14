@@ -15,7 +15,7 @@ där
 
 **a)** Beräkna kondensatorspänningen $u_c(t)$ vid $t=0$.\
 **b)** Bestäm spänningens värdemängd.\
-**c)** Bestäm den tidpunkt $t$ då spänningen $u_c(t)$ över kondensatorn är $4$ V$.
+**c)** Bestäm den tidpunkt $t$ då spänningen $u_c(t)$ över kondensatorn är $4$ $V$.
 
 ### 1.2 – Rörelse i en servomotor
 En servomotors vinkelposition (i grader) ges av
@@ -91,4 +91,4 @@ Ekvationen för en växelspänning är:
 u(t) = 5sin(60πt + δ) V.
 ```
 
-Vid tiden $t = 20$ $ms$ gäller att $u(t)$ = $2,5$ $V$. Beräkna fasen $δ$.
+Vid tiden $t = 10$ $ms$ gäller att $u(t)$ = $1,25$ $V$. Beräkna fasen $δ$.
