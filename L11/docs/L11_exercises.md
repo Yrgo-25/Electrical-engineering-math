@@ -47,7 +47,7 @@ Ett batteri tappar halva sin laddning på $30$ timmar. Beräkna efter hur lång 
 
 ### 2.3 -  Linjär förstärkning
 
-Två signaler har spänningsnivåerna $L_1 = 20$ $dB$ och $L_2 = $46$ $dB$.
+Två signaler har spänningsnivåerna $L_1 = 20$ $dB$ och $L_2 = 46$ $dB$.
 
 Beräkna den linjära spänningsförstärkningen $G_{lin}$ mellan dessa två nivåer.  
 
