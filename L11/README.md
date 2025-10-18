@@ -18,10 +18,8 @@
     * [Logaritmlagarna](https://www.matteboken.se/lektioner/matte-2/logaritmer/logaritmlagarna)
     * [Decibel](https://sv.wikipedia.org/wiki/Decibel)
 
-* Genomför bifogade övningsuppgifter i detta dokument, se bilaga A nedan.
-
-* Läs igenom **typexemplen** [här](./docs/L11_examples.pdf).
-* **Lektionsuppgifter** finns [här](./docs/L11_exercises.md).
+* Genomför **typexemplen** innan lektionen [här](./docs/L11_examples.pdf).
+* **Lektionsuppgifter** finns [här](./docs/L11_exercises.md). Se **lösningsförslag** [här](./docs/L11_solutions.md).
 
 * Extra uppgifter: 
     * Räkna uppgifterna som finns under länkarna till Matteboken ovan (se flikarna som heter Uppgifter & Exempel).

@@ -43,6 +43,18 @@ Lös följande logaritmiska ekvationer:\
 
 
 ### 2.2 - Halveringstid för laddning i ett batteri  
+Laddningen för ett batteri kan beskrivas via motsvarande spänning i enlighet med följande funktion:
+
+```math
+u(t) = U_0 * a^t
+```
+
+där 
+* $u(t)$ är nuvarande laddning,
+* $U_0$ är den ursprungliga laddningen,
+* $a$ är förändringsfaktorn,
+* $t$ är antalet passerade timmar.
+
 Ett batteri tappar halva sin laddning på $30$ timmar. Beräkna efter hur lång tid endast $20$ % av laddningen återstår.
 
 ### 2.3 -  Linjär förstärkning
