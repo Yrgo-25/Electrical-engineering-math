@@ -30,6 +30,11 @@
 
 * Se [övningsduggan](./docs/practice_test/questions.pdf) samt [lösningsförslag](./docs/practice_test/solutions.pdf).
 
+## Demonstration
+* Härledning av derivatans definition.
+* Derivering av $f(x) = -x^2 + 4x + 1$ samt lokalisering av extrempunkter.
+* Derivering av $f(x) = x^3 - 3x^2 + 2$ samt lokalisering av extrempunkter.
+
 ## Utvärdering
 * Några synpunkter på lektionen?
 

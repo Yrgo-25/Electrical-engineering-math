@@ -13,7 +13,7 @@ där
 * $G_{dB}$ = förstärkningen i $dB$,
 * $G_{lin}$ = den linjära förstärkningen.
 
-En ljudförstärkare har en förstärkning på $32$ $dB$. Beräkna den motsvarande linjära spänningsförstärkningen.
+En ljudförstärkare har en förstärkning på $26$ $dB$. Beräkna den motsvarande linjära spänningsförstärkningen.
 
 ### 1.2 - Utefter i dBm samt mW
 Sambandet mellan en given effekt i $W$ samt motsvarande effekt i $dBm$ ($dB$ i förhållande till $1$ $mW$) visas nedan:
@@ -42,18 +42,6 @@ där
 
 Beräkna antalet lika starka ljudkällor om ljudet från en ljudkälla är $68$ $dB$ och den totala ljudnivån uppgår till $72,8$ dB.
 
-## 3.2 – Analys av strömförlopp i en RC-krets
-
-Strömmen genom en viss RC-krets kan approximeras med följande polynomfunktion:
-
-$$
-i(t) = -0.4t^3 + 2.4t^2 - 3t + 1.2
-$$
-
-där  
-* $i(t)$ = strömmen genom kretsen (A),  
-* $t$ = tiden (s), definierad för $0 \le t \le 5$.
-
 ## Del 2 - Nytt stoff
 
 ### 2.1 - Derivering av funktioner
@@ -73,11 +61,12 @@ Betrakta följande funktion:
 f(x) = -x^2 + 6x - 5
 ```
 
-**a)** Derivera funktionen $f(x)$ och bestäm uttrycket för $f'(x)$.  
+**a)** Derivera funktionen $f(x)$, dvs. bestäm uttrycket för $f'(x)$.  
 **b)** Bestäm var funktionen är stationär, dvs. lös ekvationen $f'(x) = 0$.  
 **c)** Avgör med hjälp av den andra derivatan om punkten är ett **maximum** eller **minimum**.  
 **d)** Beräkna funktionens största eller minsta värde.  
-**e)** Rita grafen till $f(x)$.
+**e)** Rita upp grafen till $f(x)$ via [Geogebra](https://www.geogebra.org/graphing?lang=en), kontrollera att
+dina svar stämmer.
 
 ## 2.3 – Analys av strömförlopp i en RC-krets
 
@@ -89,14 +78,11 @@ i(t) = -0.4t^3 + 2.4t^2 - 3t + 1.2
 
 där  
 * $i(t)$ = strömmen genom kretsen i $A$,  
-* $t$ = tiden i sekunder, definierad för $0 \le t \le 5$.
+* $t$ = tiden i sekunder.
 
-**a)** Derivera funktionen för att bestämma uttrycket för strömmens förändring (strömändringshastigheten) $\frac{di}{dt}$.
-
-**b)** Beräkna den tidpunkt (eller tidpunkter) då strömmen är stationär, dvs. när $\frac{di}{dt} = 0$.
-
-**c)** Bestäm med hjälp av den **andra derivatan** om respektive stationär punkt är ett **maximum** eller **minimum**.
-
-**d)** Beräkna den maximala och minimala strömmen $i(t)$ i kretsen.
-
-**e)** Rita grafen till $i(t)$ för intervallet $0 \le t \le 5$. Markera eventuella max- och minpunkter.
+**a)** Derivera funktionen för att bestämma uttrycket för strömmens förändring (strömändringshastigheten) $i'(t)$.\
+**b)** Beräkna den tidpunkt (eller tidpunkter) då strömmen är stationär, dvs. när $i'(t) = 0$.\
+**c)** Bestäm med hjälp av den **andra derivatan** om respektive stationär punkt är ett **maximum** eller **minimum**.\
+**d)** Beräkna den maximala och minimala strömmen $i(t)$ i kretsen.\
+**e)** Rita grafen till $i(t)$ via [Geogebra](https://www.geogebra.org/graphing?lang=en), kontrollera att
+dina svar stämmer.
