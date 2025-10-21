@@ -5,6 +5,7 @@
 * Derivatans definition.
 * Derivata för potens- och polynomfunktioner.
 * Derivatans nollställe, maximi- och minipunkter.
+* Genomgång av övningsdugga 2 (del I).
 
 ## Mål med lektionen
 * Förstå derivatans koppling till tangent, räta linjens ekvation, maximi- och minipunkter.
@@ -40,4 +41,4 @@
 
 ## Nästa lektion
 * Derivatan för trigonometriska funktioner, exponentialfunktioner samt logaritmfunktioner.
-* Genomförande av **dugga 2**.
+* Genomgång av övningsdugga 2 (del II).

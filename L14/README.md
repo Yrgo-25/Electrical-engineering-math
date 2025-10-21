@@ -3,6 +3,7 @@
 ## Dagordning
 * Deriveringsregler för multiplikation och division av funktioner.
 * Derivering av sammansatta funktioner (kedjeregeln).
+* Genomförande av **dugga 2**.
 
 ## Mål med lektionen
 * Lära sig deriveringsregler för multiplikation samt division av funktioner.

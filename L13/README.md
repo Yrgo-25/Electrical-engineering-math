@@ -2,7 +2,7 @@
 
 ## Dagordning
 * Derivatan för trigonometriska funktioner, exponentialfunktioner samt logaritmfunktioner.
-* Genomförande av **dugga 2**.
+* Genomgång av övningsdugga 2 (del II).
 
 ## Mål med lektionen
 * Förstå derivatans koppling till tangent, räta linjens ekvation, maximi- och minipunkter.
@@ -24,9 +24,12 @@
     * Räkna uppgifterna som finns under länkarna till Matteboken ovan (se flikarna som heter Uppgifter & Exempel).
     * [Derivata, vanliga funktioner](./docs/L13_derivative_common_functions.pdf)
 
+* Se [övningsduggan](../L12/docs/practice_test/questions.pdf) samt [lösningsförslag](../L12/docs/practice_test/solutions.pdf).
+
 ## Utvärdering
 * Några synpunkter på lektionen?
 
 ## Nästa lektion
 * Deriveringsregler för multiplikation och division av funktioner.
 * Derivering av sammansatta funktioner (kedjeregeln).
+* Genomförande av **dugga 2**.

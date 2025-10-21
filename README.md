@@ -8,3 +8,6 @@ Kursrepo för `Elteknisk matematik` med klassen Eh25, ht25.
 * [L09](./L09/README.md) innehåller information om vanliga funktioner (del II).
 * [L10](./L10/README.md) innehåller information om trigonometiska funktioner.
 * [L11](./L11/README.md) innehåller information om exponentialfunktioner, logaritmer samt decibel.
+* [L12](./L12/README.md) innehåller information om derivata (del I).
+* [L13](./L13/README.md) innehåller information om derivata (del II).
+* [L14](./L14/README.md) innehåller information om derivata (del III).
