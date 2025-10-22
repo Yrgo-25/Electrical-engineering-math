@@ -73,7 +73,7 @@ dina svar stämmer.
 Strömmen genom en viss RC-krets kan approximeras med följande polynomfunktion:
 
 ```math
-i(t) = -0.4t^3 + 2.4t^2 - 3t + 1.2
+i(t) = -0,4t^3 + 2,4t^2 - 3t + 1,2
 ```
 
 där  

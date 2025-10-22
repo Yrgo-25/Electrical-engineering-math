@@ -23,7 +23,7 @@
     * [Derivata, minimi- och maximipunkter](https://www.matteboken.se/lektioner/matte-3/derivatan-och-grafen/storsta-och-minsta-varde#!/)
 
 * Läs igenom **typexemplen** [här](./docs/L12_examples.pdf).
-* **Lektionsuppgifter** finns [här](./docs/L12_exercises.md).
+* **Lektionsuppgifter** finns [här](./docs/L12_exercises.md). Se **lösningsförslag** [här](./docs/L12_solutions.md).
 
 * Extra uppgifter: 
     * Räkna uppgifterna som finns under länkarna till Matteboken ovan (se flikarna som heter Uppgifter & Exempel).
