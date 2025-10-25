@@ -5,8 +5,7 @@
 * Genomgång av övningsdugga 2 (del II).
 
 ## Mål med lektionen
-* Förstå derivatans koppling till tangent, räta linjens ekvation, maximi- och minipunkter.
-* Kunna derivera polynomfunktioner.
+* Lära sig derivata för vanligt förekommande funktioner.
 
 ## Instruktioner
 * Vänligen se följande [video](https://www.youtube.com/watch?v=N2PpRnFqnqY) för att få lite information om derivatan som koncept.
@@ -18,7 +17,7 @@
     * [Derivatan av exponentialfunktioner](https://www.matteboken.se/lektioner/matte-3/derivata/exponentialfunktioner)
 
 * Läs igenom **typexemplen** [här](./docs/L13_examples.pdf).
-* **Lektionsuppgifter** finns [här](./docs/L13_exercises.md).
+* **Lektionsuppgifter** finns [här](./docs/L13_exercises.md). Se **lösningsförslag** [här](./docs/L13_solutions.md).
 
 * Extra uppgifter: 
     * Räkna uppgifterna som finns under länkarna till Matteboken ovan (se flikarna som heter Uppgifter & Exempel).
