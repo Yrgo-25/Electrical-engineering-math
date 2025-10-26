@@ -12,3 +12,4 @@ Kursrepo för `Elteknisk matematik` med klassen Eh25, ht25.
 * [L13](./L13/README.md) innehåller information om derivata (del II).
 * [L14](./L14/README.md) innehåller information om derivata (del III).
 * [L15](./L15/README.md) innehåller information om integraler.
+* [L16](./L16/README.md) innehåller information om komplexa tal (del I).
