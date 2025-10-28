@@ -82,6 +82,6 @@ där
 - $t$ = tiden i sekunder.
 
 **a)** Bestäm $i'(t)$ med kedjeregeln.  
-**b)** Undersök vad som händer med $i'(t)$ när $t \to 0$ och $t \to \infty$.
+**b)** Undersök vad som händer med $i'(t)$ när $t \to 0$ och $t \to \infty$. Tolka resultatet fysiskt.
 
 ---

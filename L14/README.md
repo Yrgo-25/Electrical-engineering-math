@@ -22,6 +22,19 @@
     * Räkna uppgifterna som finns under länkarna till Matteboken ovan (se flikarna som heter Uppgifter & Exempel).
     * [Övningsuppgifter - deriveringsregler](./docs/L14_derivative_rules.pdf)
 
+## Demonstration
+### Produktregeln
+* Derivering av $f_1(x) = 𝑥^2 * \ln x$.
+* Derivering av $f_2(x) = 3𝑥^3 * \ln 9x$.
+
+### Kvotregeln
+* Derivering av $f_3(x) = \frac{\ln x^2}{x}$.
+* Derivering av $f_4(x) = \frac{\ln 8x^3}{x^2}$.
+
+### Kedjeregeln
+* Derivering av $f_5(x) = e^{\sqrt{2x + 2}}$.
+* Derivering av $f_6(x) = e^{\sqrt{3x^2 + 3x + 3}}$.
+
 ## Utvärdering
 * Några synpunkter på lektionen?
 
