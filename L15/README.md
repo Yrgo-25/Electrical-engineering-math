@@ -29,11 +29,20 @@ lite information om integraler som koncept.
     * [Övningsuppgifter - derivata och integraler](./docs/L15_derivate_integrals.pdf)
 
 ## Demonstration
-* Integrering av funktionen $f(x) = x^2 + 3x - 4$ för att bestämma arean mellan $-4\,{\le} x\, {\le} 1$.
+* Integrering av funktionen $f(x) = 2x + 1$ för att bestämma arean mellan $0\,{\le} x\, {\le} 2$.
+* Integrering av funktionen $f(x) = x^2$ för att bestämma arean mellan $0\,{\le} x\, {\le} 3$.
+* Integrering av $i(t) = 2t + 4$ för att bestämma laddningen $q(t)$ som har passerat under tiden $0\,{\le }t\,{\le} 2$.
 
-![Kurvan $f(x) = x^2 + 3x - 4](./docs/images/demo.png)
+Laddningen $q(t)$ ges av
 
-* Integrering av $i(t) = 2t + 4$ med startström $i(0)$ = $1$ $A$.
+```math
+q(t) = \int_0^t i(t)\,dt,
+```
+
+där $q(0) = 0$. 
+
+Även bestämning av den primitiva funktionen $I(t)$ till $i(t)$, och därmed $q(t) = I(t)$, via
+givet startvillkor.
 
 ## Utvärdering
 * Några synpunkter på lektionen?
