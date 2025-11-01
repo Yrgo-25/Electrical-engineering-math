@@ -1,4 +1,4 @@
-# L15 - Lektionsuppgifter
+# L16 - Lektionsuppgifter
 
 ## Del 1 - Repetitionsuppgifter
 
@@ -17,12 +17,12 @@ Det är också känt att startspänningen $u(0)$ = $2$ $V$.
 
 ## Del 2 - Nytt stoff
 
-### 2.1 - Omvandling från rektangulär till polär form
+### 2.1 - Rektangulär => polär form
 Omvandla spänningen $U = 5 - j2$ $V$ till polär form.
 
 ---
 
-### 2.2 - Omvandling från polär till rektangulär form
+### 2.2 - Polär => rektangulär form
 Omvandla strömmen $I = 5$ $∠$ $\frac{\pi}{6}$ $mA$ till rektangulär form.
 
 ---

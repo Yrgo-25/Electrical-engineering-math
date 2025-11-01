@@ -34,4 +34,3 @@
 ## Nästa lektion
 * Eulers formel.
 * Komplexa tal för vektorberäkningar.
-* Genomgång av övningsdugga 3 (del I).
