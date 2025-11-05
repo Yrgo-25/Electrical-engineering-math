@@ -16,3 +16,4 @@ Kursrepo för `Elteknisk matematik` med klassen Eh25, ht25.
 * [L17](./L17/README.md) innehåller information om komplexa tal (del II).
 * [L18](./L18/README.md) innehåller information om komplexa tal (del III).
 * [L19](./L19/README.md) innehåller information om förberedelse och repetition inför tentamen (del I).
+* [L20](./L20/README.md) innehåller information om förberedelse och repetition inför tentamen (del II).
