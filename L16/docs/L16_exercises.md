@@ -15,6 +15,8 @@ Det är också känt att startspänningen $u(0)$ = $2$ $V$.
 **a)** Bestäm ett uttryck för u(t).\
 **b)** Bestäm spänningen efter $3$ sekunder.
 
+---
+
 ## Del 2 - Nytt stoff
 
 ### 2.1 - Rektangulär => polär form
