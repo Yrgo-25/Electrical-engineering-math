@@ -38,4 +38,5 @@ u_2(t) = 3{\sin (\omega t - 60^{\circ})}\,\,V
 
 ## Nästa lektion
 * Genomförande av **dugga 3**.
-* Repetition inför tentan.
+* Förberedelse och repetition inför tentamen.
+* Möjlighet till komplettering av tidigare duggor.
