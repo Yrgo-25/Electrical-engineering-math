@@ -6,6 +6,7 @@
 
 ## Mål med lektionen
 * Förstå Eulers formel.
+* Känna till skillnaden mellan en komplex storhet och en fasor.
 * Förstå hur komplexa tal kan användas vid vektorberäkningar.
 
 ## Instruktioner
@@ -22,7 +23,7 @@
 ## Demonstration
 * Vektorer $a = (3;4)$ samt $b = (-2; 4)$ som komplexa tal.
 * Omskrivning av $u(t) = 3e^{j(100{\pi}t - \frac{\pi}{4})}$ $V$ till rektangulär form.
-* Omskrivning av $i(t) = 5 - j4$ $mA$ till Eulers form.
+* Omskrivning av fasor $I = 5 - j4$ $mA$ till motsvarande komplex ström $i(t)$ på Eulers form.
 
 ## Utvärdering
 * Några synpunkter på lektionen?
