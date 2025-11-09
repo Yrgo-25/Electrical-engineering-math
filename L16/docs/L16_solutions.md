@@ -73,12 +73,12 @@ där
 
 Vi börjar med att rita ut $U$ i det komplexa talplanet, såsom visas nedan:
 
-![Spänningen $U = 5 - j2$ 4V$ i det komplexa talplanet.](./images/2.1_voltage.png)
+![Spänningen $U = 5 - j2$ $V$ i det komplexa talplanet.](./images/2.1_voltage.png)
 
 Spänningens absolutbelopp (och tillika amplitud) $|U|$ kan enkelt beräknas via Pythagoras sats:
 
 ```math
-|U| = \sqrt(5^2 + (-2)^2) = \sqrt(25 + 4) = \sqrt(29) \approx 5,39\,\, V
+|U| = \sqrt{5^2 + (-2)^2} = \sqrt{25 + 4} = \sqrt{29} \approx 5,39\,\, V
 ```
 
 Vi beräknar sedan spänningens fasvinkel $δ_u$ med $tan^{-1}$:
@@ -98,7 +98,7 @@ Eftersom $U$ ligger i fjärde kvadranten $(270°≤δ_u≤360°)$ samt att $-21,
 Därmed gäller att
 
 ```math
-U = 5 -j2 \approx 5,39\,\,∠\,-0,38\,\,rad\,\,V
+U = 5 - j2 \approx 5,39\,\,∠\,-0,38\,\,rad\,\,V
 ```
 
 ---
@@ -120,7 +120,7 @@ där
 
 Enligt uppgift är strömmens absolutbelopp (och tillika amplitud) $|I|=5$ $mA$. Vi känner också till att strömmens fasvinkel $δ_i = $\frac{\pi}{6}$ $rad$, vilket medför att strömmen kan visualiseras som en triangel i det komplexa talplanet, såsom visas nedan: 
 
-![Strömmen I = $I = 5$ $∠$ $\frac{\pi}{6}$ i det komplexa talplanet](./images/2.2_current.png)
+![Strömmen $I = 5$ $∠$ $\frac{\pi}{6}$ i det komplexa talplanet](./images/2.2_current.png)
 
 Som synes kan den reella delen $I_{re}$ samt den imaginära delen $I_{im}$ beräknas trigonometriskt (via cosinus samt sinus).
 
@@ -190,14 +190,14 @@ Svara både i polär samt rektangulär form.
 Vi beräknar impedansen $Z$ genom att bestämma kvoten $\frac{U}{I}$ på polär form:
 
 ```math
-Z = \frac{U}{I} \approx \frac{5,39\,\,∠\,-0,38\,\,rad\,\,V}{5\,∠\,\frac{\pi}{6}\,\,mA}
+Z = \frac{U}{I} \approx \frac{5,39\,\,∠\,-0,38}{5m\,∠\,\frac{\pi}{6}}
 ```
 
-Impedansens amplitud |Z| beräknas genom att dividera spänningens samt strömmens amplituder $|U|$ samt $|I|$.
+Impedansens amplitud $|Z|$ beräknas genom att dividera spänningens samt strömmens amplituder $|U|$ samt $|I|$.
 Eftersom spänningen mäts i $V$ och strömmen mäts i $mA$ erhålls svaret i $k\Omega$:
 
 ```math
-|Z| = \frac{|U|}{|I|} \approx \frac{5,39}{5} \approx 1,08\,\,k\Omega
+|Z| = \frac{|U|}{|I|} \approx \frac{5,39}{5m} \approx 1,08\,\,k\Omega
 ```
 
 Impedansens fasvinkel $δ_z$ erhålls genom att subtrahera spänningens samt strömmens fasvinklar $δ_u$ samt $δ_i$:

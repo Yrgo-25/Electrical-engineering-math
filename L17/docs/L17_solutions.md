@@ -241,7 +241,7 @@ c = -1 + j10
 b + 2c = -3 + j6 + 2(-1 + j10),
 ```
 
-vilket kan skriva som till
+vilket kan skrivas om till
 
 ```math
 b + 2c = -3 + j6 - 2 + j20
@@ -294,7 +294,7 @@ Eftersom $b$ ligger i andra kvadranten $(90°≤δ_b≤180°)$ adderar vi $\pi =
 Vi avslutar sedan med $δ_c$:
 
 ```math
-δ_c = \tan^{-1} \frac{10}{-1} \approx -1,5 \pm k * \pi\,\,rad \approx -84,3,4° \pm k * 180°
+δ_c = \tan^{-1} \frac{10}{-1} \approx -1,5 \pm k * \pi\,\,rad \approx -84,3° \pm k * 180°
 ```
 
 Eftersom $c$ ligger i andra kvadranten $(90°≤δ_c≤180°)$ adderar vi $\pi = 180°$. Vi sätter därmed $k = 1$:
@@ -303,7 +303,7 @@ Eftersom $c$ ligger i andra kvadranten $(90°≤δ_c≤180°)$ adderar vi $\pi =
 δ_c \approx -1,5 + 1 * \pi \approx 1,7\,\,rad \approx 95,7°
 ```
 
-**f)** 	Den nya vektorn $d$ är motsatt riktad $a$, vilket innebär att dess fasvinkel $δ_d=δ_a + \pi$: 
+**f)** 	Den nya vektorn $d$ är motsatt riktad $a$, vilket innebär att dess fasvinkel $δ_d = δ_a \pm \pi$. Eftersom $δ_d < \pi$ adderar vi $\pi$:
 
 ```math
 δ_d = δ_a + \pi \approx 0,64 + \pi \approx 3,79\,\,rad \approx 216,9°
@@ -346,7 +346,7 @@ d_{im} = |d| * \sin δ_d \approx 10 * \sin 3,79 = -6
 Därmed kan vektor $d$ skrivas ut på rektangulär form:
 
 ```math
-d = -8 -j6
+d = -8 - j6
 ```
 
 ---
