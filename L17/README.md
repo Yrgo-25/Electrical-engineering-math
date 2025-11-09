@@ -14,7 +14,7 @@
     * [Eulers formel](https://sv.wikipedia.org/wiki/Eulers_formel)
 
 * Genomför **typexemplen** [här](./docs/L17_examples.pdf).
-* **Lektionsuppgifter** finns [här](./docs/L17_exercises.md). **Lösningsförslag** läggs upp efter lektionen.
+* **Lektionsuppgifter** finns [här](./docs/L17_exercises.md). **Lösningsförslag** finns [här](./docs/L17_solutions.md).
 
 * Extra uppgifter: 
     * Räkna uppgifterna som finns under länkarna till Matteboken ovan (se flikarna som heter Uppgifter & Exempel).

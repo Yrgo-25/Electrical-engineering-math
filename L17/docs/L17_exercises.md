@@ -45,24 +45,7 @@ I uppgifterna nedan ska varje vektor $(x;y)$ tolkas som ett komplext tal $z = x 
 
 ---
 
-### 2.2 - Eulers form => rektangulär form
-
-En ström $i(t)$ i en växelströmskrets skrivs på Eulers form enligt nedan:
-
-```math
-i(t) = 4e^{j(80πt - \frac{π}{4})}\,mA,
-```
-
-där t= tiden i sekunder.
-
-**a)** Skriv om $i(t)$ till rektangulär form via Eulers formel.\
-**b)** Beräkna strömmens värde vid tiden $t = 10$ $ms$, dvs. $i(0,01)$.\
-**c)** Rita ut strömmens värde vid tiden tiden $t = 10$ $ms$ i det komplexa talplanet (x-axeln = reell del, y-axeln = imaginär del).\
-**d)** Bestäm motsvarande fasor $I$ genom att ta bort tidsberoendet. Skriv $I$ både på Eulers form samt rektangulär form.
-
----
-
-### 2.3 - Rektangulär form => Eulers form
+### 2.2 - Rektangulär form => Eulers form
 
 En spänning $u(t)$  i en växelströmskrets kan representeras av en fasor U, som på rektangulär form skrivs enligt nedan:
 
