@@ -9,7 +9,7 @@
 
 ## Instruktioner
 * Genomför **typexemplen** [här](./docs/L18_examples.pdf).
-* **Lektionsuppgifter** finns [här](./docs/L18_exercises.md). **Lösningsförslag** läggs upp efter lektionen.
+* **Lektionsuppgifter** finns [här](./docs/L18_exercises.md). **Lösningsförslag** finns [här](./docs/L18_solutions.md).
 
 * Extra uppgifter: 
     * [Övningsuppgifter - komplexa tal med sinusformade signaler](./docs/L18_complex_numbers_sine.pdf)
