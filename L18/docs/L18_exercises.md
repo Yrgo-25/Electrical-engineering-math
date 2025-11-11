@@ -4,7 +4,7 @@
 
 ### 1.1 - Vektorer i det komplexa talplanet
 
-Du har följande vektorer: $a = (2;1)$, $b = (2;-1)$ samt $c = (-3, 4)$. \
+Du har följande vektorer: $a = (2;1)$, $b = (2;-1)$ samt $c = (-3; 4)$. \
 I uppgifterna nedan ska varje vektor $(x;y)$ tolkas som ett komplext tal $z = x + jy$.
 
 **a)** Skriv vektorerna på komplex rektangulär form.\
@@ -21,12 +21,12 @@ I uppgifterna nedan ska varje vektor $(x;y)$ tolkas som ett komplext tal $z = x 
 En spänning $u(t)$ i en växelströmskrets kan representeras av en fasor U, som på rektangulär form skrivs enligt nedan:
 
 ```math
-U = 3 - j6 V
+U = 3 - j6\,\,V
 ```
 
 **a)** Rita ut fasorn $U$ i det komplexa talplanet (x-axeln = reell del, y-axeln = imaginär del).\
 **b)** Uttryck fasorn $U$ på Eulers form, dvs. bestäm absolutbeloppet $|U|$ samt fasvinkeln $δ$ så att $U = |U|e^{jδ}$.\
-**c)** Anta att strömmens frekvens $f = 50$ $Hz$. Bestäm vinkelhastigheten $w$.\
+**c)** Anta att spänningens frekvens $f = 50$ $Hz$. Bestäm vinkelhastigheten $w$.\
 **d)** Skriv $u(t)$ som en tidsberoende funktion $u(t)=|U|*e^{j(wt+δ)}$.
 
 ---
